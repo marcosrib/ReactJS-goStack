@@ -5,7 +5,7 @@
   - [Conceitos abordados:](#bulb-conceitos-abordados)
   - [Bibliotecas utilizadas:](#file_folder-bibliotecas-utilizadas)
 
-:memo: ##  Descriçao do projeto:
+##:memo: Descriçao do projeto:
 
 Este é um projeto desenvolvido no bootcamp GoStack da Rockseat.
 
