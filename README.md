@@ -9,7 +9,7 @@
 
 Este é um projeto desenvolvido no bootcamp GoStack da Rockseat.
 
-Nele foi abordado os coceitos básico realizando um CRUD simples.
+Nele foi abordado os conceitos básicos realizando um CRUD simples.
 
 ## :bulb: Conceitos abordados:
 
